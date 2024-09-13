@@ -8,7 +8,7 @@
 👨‍💻 &nbsp; I am a Web3 Frontend Developer.\
 💡 &nbsp; BlockChain is 💖.\
 🎓 &nbsp; 3rd Year Undergraduate Student at IIT Roorkee.\
-🏆 &nbsp; 3x EthGlobal Web3 Hackathon Winner.\
+🏆 &nbsp; 3x EthGlobal Web3 Hackathons Winner.\
 ✉️ &nbsp; Bomb me an email at karankuthe132@gmail.com I'll reach back to you 100%.
 
 
